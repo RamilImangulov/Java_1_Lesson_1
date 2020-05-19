@@ -1,5 +1,3 @@
-import static sun.misc.Version.print;
-
 public class Main {
     public static void main(String[] args) {
         Employee[] persArray = new Employee[5];
